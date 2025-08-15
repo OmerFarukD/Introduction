@@ -29,8 +29,6 @@ Console.WriteLine(customer == customer1);
 //    Surname = "Deneme",
 //    Salary = 25000
 //};
-
-
 //Console.WriteLine(employee == employee1);
 
 Point point;
